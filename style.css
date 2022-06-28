@@ -211,7 +211,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background:url(/UASPKW/img/home-img.jpg) no-repeat; /**/
+    background: url(/img/home-img.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -379,7 +379,7 @@ p{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background:url(../UASPKW/img/contact-page.jpg) no-repeat; 
+    background: url(/img/contact-page.jpg);
     background-size: cover;
     background-position: center;
 }
